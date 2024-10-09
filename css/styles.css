@@ -101,7 +101,7 @@ section.hero img {
     width: 100%;
     height: auto;
     filter: brightness(50%);
-    display: none;
+    /* display: none; */
 }
 
 section.hero img.desktop {
@@ -616,13 +616,13 @@ footer .copyright-text {
         height: 7px;
     }
 
-    section.hero img.tablet {
+    /* section.hero img.tablet {
         display: none;
     }
 
     section.hero img.mobile {
         display: initial;
-    }
+    } */
 
     .hero-content {
         position: static;
